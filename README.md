@@ -54,7 +54,7 @@ early 1990s. From Matz's post to the _ruby-talk_ mailing list in 1999:
 ## Why Do Developers Love It?
 
 Every programming language was originally designed to solve some kind of
-problem. For example, JavaScript was created by Brendan Eich help developers
+problem. For example, JavaScript was created by Brendan Eich to help developers
 make web pages interactive.
 
 Matz designed Ruby in order to **make programmers happy**. He developed a
